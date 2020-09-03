@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 7777eb511b507dd46b2bb1859f69b9fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3580798994334316389
+    second: Electric ORb_0
+  - first:
+      213: -1710945534774047955
+    second: Electric ORb_1
+  - first:
+      213: -5266412936518655935
+    second: Electric ORb_2
+  - first:
+      213: 2104166040668859651
+    second: Electric ORb_3
+  - first:
+      213: -8735713790846410079
+    second: Electric ORb_4
+  - first:
+      213: -6425828736293669255
+    second: Electric ORb_5
+  - first:
+      213: -2455205993202376714
+    second: Electric ORb_6
+  - first:
+      213: -3852752650118452128
+    second: Electric ORb_7
+  - first:
+      213: 2051571265145972796
+    second: Electric ORb_8
+  - first:
+      213: -8827680723551251652
+    second: Electric ORb_9
+  - first:
+      213: 430970291335306792
+    second: Electric ORb_10
+  - first:
+      213: -4311549315457823707
+    second: Electric ORb_11
+  - first:
+      213: 4062307049165687954
+    second: Electric ORb_12
+  - first:
+      213: -5743863523203561660
+    second: Electric ORb_13
+  - first:
+      213: -254394645984008986
+    second: Electric ORb_14
+  - first:
+      213: 413265008865191470
+    second: Electric ORb_15
+  - first:
+      213: -5532313793605417772
+    second: Electric ORb_16
+  - first:
+      213: -6745493992597350556
+    second: Electric ORb_17
+  - first:
+      213: -8018473977716154510
+    second: Electric ORb_18
+  - first:
+      213: 6806395481302715706
+    second: Electric ORb_19
+  - first:
+      213: 8266629398765563395
+    second: Electric ORb_20
+  - first:
+      213: 7622664085785967551
+    second: Electric ORb_21
+  - first:
+      213: 8480466402716654800
+    second: Electric ORb_22
+  - first:
+      213: -9046394987106770583
+    second: Electric ORb_23
+  - first:
+      213: -8655234017109679294
+    second: Electric ORb_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Electric ORb_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 6961
+        width: 1853
+        height: 1777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5677f55a6bd81b130800000000000000
+      internalID: 3580798994334316389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_1
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 6948
+        width: 1962
+        height: 1815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b80c1e9108148e0800000000000000
+      internalID: -1710945534774047955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_2
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 6884
+        width: 2135
+        height: 1821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a84e3651f9e6b0800000000000000
+      internalID: -5266412936518655935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_3
+      rect:
+        serializedVersion: 2
+        x: 6973
+        y: 6493
+        width: 2232
+        height: 2174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30de18a9ddf733d10800000000000000
+      internalID: 2104166040668859651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_4
+      rect:
+        serializedVersion: 2
+        x: 9327
+        y: 6653
+        width: 1795
+        height: 1937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a26e1d479284c680800000000000000
+      internalID: -8735713790846410079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_5
+      rect:
+        serializedVersion: 2
+        x: 9397
+        y: 4601
+        width: 1668
+        height: 1713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976f7b15fced2d6a0800000000000000
+      internalID: -6425828736293669255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_6
+      rect:
+        serializedVersion: 2
+        x: 6999
+        y: 4422
+        width: 2065
+        height: 1962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff13cc482b5dedd0800000000000000
+      internalID: -2455205993202376714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_7
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 4544
+        width: 2071
+        height: 1988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cae32a0e5488ac0800000000000000
+      internalID: -3852752650118452128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_8
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 4903
+        width: 1757
+        height: 1648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38ac6a2235a87c10800000000000000
+      internalID: 2051571265145972796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4537
+        width: 1923
+        height: 1969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c331a2a2727cd7580800000000000000
+      internalID: -8827680723551251652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2299
+        width: 2027
+        height: 2046
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e99c3523d1bf500800000000000000
+      internalID: 430970291335306792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_11
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 2319
+        width: 1917
+        height: 2026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cce8cbdbc4a24c0800000000000000
+      internalID: -4311549315457823707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_12
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 2402
+        width: 1853
+        height: 2065
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c061afcb6306830800000000000000
+      internalID: 4062307049165687954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_13
+      rect:
+        serializedVersion: 2
+        x: 7211
+        y: 2434
+        width: 1731
+        height: 1930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447c025de82b940b0800000000000000
+      internalID: -5743863523203561660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_14
+      rect:
+        serializedVersion: 2
+        x: 9199
+        y: 2287
+        width: 2167
+        height: 2096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4ac55da65387cf0800000000000000
+      internalID: -254394645984008986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_15
+      rect:
+        serializedVersion: 2
+        x: 9243
+        y: 145
+        width: 2142
+        height: 2122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26228306563cb500800000000000000
+      internalID: 413265008865191470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_16
+      rect:
+        serializedVersion: 2
+        x: 7230
+        y: 594
+        width: 1744
+        height: 1596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4c72a8ae54933b0800000000000000
+      internalID: -5532313793605417772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_17
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 113
+        width: 2020
+        height: 2257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46714b0f3f03362a0800000000000000
+      internalID: -6745493992597350556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_18
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 183
+        width: 1802
+        height: 2020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fd385a668a8b090800000000000000
+      internalID: -8018473977716154510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric ORb_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 305
+        width: 1962
+        height: 1744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d4fdfd0ac257e50800000000000000
+      internalID: 6806395481302715706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
